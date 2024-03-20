@@ -4,7 +4,9 @@ very basic so far, building on lit papers.
 
 ### setup 
 
-install venv dependencies inside ```python/``` 
+1. download and unzip folder in project directory and rename folder to ```data/``` 
+
+2. install venv dependencies inside ```python/``` 
 
 ```
 cd python

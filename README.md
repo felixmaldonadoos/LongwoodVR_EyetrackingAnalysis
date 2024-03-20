@@ -4,7 +4,7 @@ very basic so far, building on lit papers.
 
 ### setup 
 
-1. download and unzip folder in project directory and rename folder to ```data/``` 
+1. download extract data file to main project directory and rename folder to ```data/``` 
 
 2. install venv dependencies inside ```python/``` 
 

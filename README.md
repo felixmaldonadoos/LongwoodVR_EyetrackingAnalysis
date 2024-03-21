@@ -9,7 +9,8 @@ very basic so far, building on lit papers.
 2. install venv dependencies inside ```python/``` 
 
 ```
-cd python
+git clone git@github.com:felixmaldonadoos/LongwoodVR_EyetrackingAnalysis.git
+cd LongwoodVR_EyetrackingAnalysis/python
 source venvLW/bin/activate
 pip install -r requirements.txt
 ```

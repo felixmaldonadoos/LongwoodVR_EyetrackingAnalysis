@@ -11,6 +11,7 @@ very basic so far, building on lit papers.
 ```
 git clone git@github.com:felixmaldonadoos/LongwoodVR_EyetrackingAnalysis.git
 cd LongwoodVR_EyetrackingAnalysis/python
+python3 -m venv venvLW
 source venvLW/bin/activate
 pip install -r requirements.txt
 ```
